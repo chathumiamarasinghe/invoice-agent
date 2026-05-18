@@ -1,0 +1,12 @@
+.env
+/venv
+./Invoices
+venv/
+__pycache__/
+*.db
+.env
+# Ignore invoices folder
+backend/Invoices/
+
+# Ignore specific PDF file
+wagler_invoice.pdf
