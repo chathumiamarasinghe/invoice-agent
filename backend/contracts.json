@@ -1,0 +1,22 @@
+
+[
+  {
+    "vendor_name": "Wagler Competition Products",
+    "agreed_prices": {
+      "WCPC6641": 720.00
+    },
+    "volume_discount_pct": 5,
+    "volume_threshold": 700,
+    "payment_terms": "Net 30",
+    "credit_card_fee_waived": false
+  },
+  {
+    "vendor_name": "YOUR VENDOR 2 NAME HERE",
+    "agreed_prices": {
+      "ITEM_CODE": 0.00
+    },
+    "volume_discount_pct": 0,
+    "volume_threshold": 0,
+    "payment_terms": "Net 30"
+  }
+]
